@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,====== 【CCTV】-DM ======
 #EXTINF:-1,凤凰中文HD
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
 #EXTINF:-1,凤凰中文HD
@@ -28,7 +27,6 @@ http://hls-ott-zhibo.wasu.tv/live/264/index.m3u8
 http://hls-ott-zhibo.wasu.tv/live/268/index.m3u8
 #EXTINF:-1,华数TV神剧8       
 http://hls-ott-zhibo.wasu.tv/live/269/index.m3u8
-#EXTINF:-1 ,====== 4K測試 ======
 #EXTINF:-1,CCTV1
 http://223.110.242.130:6610/gitv/live1/G_CCTV-1-HQ/1.m3u8
 #EXTINF:-1,CCTV2
@@ -57,18 +55,6 @@ http://ott.js.chinamobile.com/PLTV/3/224/3221225556/index.m3u8
 http://ott.js.chinamobile.com/PLTV/3/224/3221227201/index.m3u8
 #EXTINF:-1,CCTV-15
 http://ott.js.chinamobile.com/PLTV/3/224/3221225568/index.m3u8
-#EXTINF:-1,CCTV風雲音樂
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000613/index.m3u8
-#EXTINF:-1,CCTV風雲足球
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000618/index.m3u8
-#EXTINF:-1,CCTV體育賽事
-http://39.134.52.161/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225496/index.m3u8
-#EXTINF:-1,CCTV發現之旅
-http://ott.js.chinamobile.com/PLTV/4/224/3221227030/index.m3u8
-#EXTINF:-1,CCTV老故事
-http://ott.js.chinamobile.com/PLTV/4/224/3221227043/index.m3u8
-#EXTINF:-1,CCTV懷舊劇場
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000622/index.m3u8
 #EXTINF:-1,中國交通
 http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227027/index.m3u8
 #EXTINF:-1,中國氣象
@@ -81,7 +67,6 @@ http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226392/index.m3u8
 http://hls-ott-zhibo.wasu.tv/live/128/index.m3u8
 #EXTINF:-1,CCTV老故事
 http://hls-ott-zhibo.wasu.tv/live/131/index.m3u8
-#EXTINF:-1 ,====== 【地方衛視】-DM ======
 #EXTINF:-1 ,鳳凰中文
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
 #EXTINF:-1 ,鳳凰資訊
@@ -166,8 +151,6 @@ http://111.40.205.87/PLTV/88888888/224/3221225686/index.m3u8
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225902/3.m3u8
 #EXTINF:-1,魅力音乐
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225916/3.m3u8
-#EXTINF:-1 ,====== 【NEW TV】-DM ======
-http://3/3.m3u8
 #EXTINF:-1 ,NEWTV愛情喜劇
 http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225877/1.m3u8
 #EXTINF:-1 ,NEWTV搏擊
@@ -234,7 +217,6 @@ http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221226573/1.m3u8
 http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221226599/1.m3u8
 #EXTINF:-1 ,BESTV直播FHD
 http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221226603/1.m3u8
-#EXTINF:-1 ,====== 【臺灣】-DM ======
 #EXTINF:-1,TVBS新闻
 http://220.158.149.14:9999/live/TV00000000000000000082@HHZT;LIVE
 #EXTINF:-1,CHANNEL9音乐
@@ -589,7 +571,7 @@ http://tx.hls.huya.com/huyalive/30765679-2591336344-11129704850416205824-3048991
 http://scgctvshow.sctv.com/hdlive/emei/3.m3u8
 #EXTINF:-1,HBO Asia
 http://218.202.220.2:5000/nn_live.m3u8?id=HBO
-#EXTINF:-1,环球影剧频道Universal Channel
+#EXTINF:-1,环球影剧频道
 http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
 #EXTINF:-1,中天新闻
 http://192.200.108.130:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
