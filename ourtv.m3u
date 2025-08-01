@@ -39,8 +39,8 @@ http://111.227.196.164:9901/tsfile/live/0124_1.m3u8
 http://111.227.196.164:9901/tsfile/live/0127_1.m3u8
 #EXTINF:-1 group-title="香港",凤凰香港
 http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
-#EXTINF:-1 group-title="央视卫视",天津卫视
-http://111.227.196.164:9901/tsfile/live/0135_1.m3u8
+#EXTINF:-1 group-title=""香港",凤凰资讯2
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 group-title="央视卫视",山东卫视
 http://111.227.196.164:9901/tsfile/live/0131_1.m3u8
 #EXTINF:-1 group-title="央视卫视",辽宁卫视
