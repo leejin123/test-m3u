@@ -18,10 +18,10 @@
       ]
     },
     {
-      "key": "maotaizy1",
-      "name": "茅台资源1",
+      "key": "kczy",
+      "name": "快车资源1",
       "type": 1,
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/josn/",
+      "api": "https://caiji.kczyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -281,3 +281,4 @@
     "cms.qdwght.com"
   ]
 }
+
