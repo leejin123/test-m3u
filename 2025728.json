@@ -3,7 +3,7 @@
     {
       "key": "maotaizy",
       "name": "茅台资源",
-      "type": 0,
+      "type": 3,
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
@@ -20,7 +20,7 @@
     {
       "key": "kczy",
       "name": "快车资源1",
-      "type": 0,
+      "type": 3,
       "api": "https://caiji.kczyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
@@ -281,6 +281,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
