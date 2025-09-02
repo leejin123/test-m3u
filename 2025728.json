@@ -4,7 +4,7 @@
       "key": "maotaizy",
       "name": "茅台资源",
       "type": 1,
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/json/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -281,4 +281,5 @@
     "cms.qdwght.com"
   ]
 }
+
 
